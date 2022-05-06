@@ -1,8 +1,8 @@
 # Playing-with-CSS
-## It is a very simple html & css files 
+## just for the purpose of making css learning fun and easy and will keep updating this repo for more css drawings
+### Here is the website link -> https://abdelrahmanbaher4.github.io/Playing-with-CSS/
 ## final outcome
 ![alt text](https://github.com/abdelrahmanbaher4/Playing-with-CSS/blob/main/css_drawing.PNG)
-### just for the purpose of making css learning fun and easy and will keep updating this repo for more css drawings
 ### I wanted to practice the following conent for CSS :-
 * using absolute and relative positions 
 * using transform 
