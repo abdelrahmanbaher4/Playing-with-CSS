@@ -41,6 +41,7 @@
 
 ```
 ## final outcome
+![alt text](https://github.com/abdelrahmanbaher4/Playing-with-CSS/blob/main/css_drawing.PNG)
 
 
 
