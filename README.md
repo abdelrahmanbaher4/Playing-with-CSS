@@ -7,7 +7,7 @@
 * making circles with css
 * making shadows for boxes
 * using sudo selectors for classes
-* *here used to make the mouse of the drawing 
+#### here used to make the mouse of the drawing 
 ```css
 
 .face::after{
@@ -25,7 +25,7 @@
 }
 ```
 * using direct child selectors
-* *here used for making the hair of the drawing 
+#### here used for making the hair of the drawing 
 ```css
 
 .hair>div:nth-child(1){
