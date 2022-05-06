@@ -1,5 +1,7 @@
 # Playing-with-CSS
 ## It is a very simple html & css files 
+## final outcome
+![alt text](https://github.com/abdelrahmanbaher4/Playing-with-CSS/blob/main/css_drawing.PNG)
 ### just for the purpose of making css learning fun and easy and will keep updating this repo for more css drawings
 ### I wanted to practice the following conent for CSS :-
 * using absolute and relative positions 
@@ -40,9 +42,6 @@
 }
 
 ```
-## final outcome
-![alt text](https://github.com/abdelrahmanbaher4/Playing-with-CSS/blob/main/css_drawing.PNG)
-
 
 
 
